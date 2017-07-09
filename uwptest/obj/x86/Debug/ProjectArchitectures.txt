@@ -1,0 +1,1 @@
+G:\git\uwptest\uwptest\uwptest.csproj;x86
